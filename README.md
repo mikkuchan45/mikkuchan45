@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=An%20noor%20abedin%20jothi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Becoming%20a%20Doctor&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=An%20noor%20abedin%20jothi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Becoming%20a%20Wifey&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Passionate%20Ml%20player" alt="Typing introduction" />
