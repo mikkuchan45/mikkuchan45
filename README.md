@@ -13,11 +13,11 @@
 <img src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Passionate Doctor
+- MD Iqram's wifey
 
 
-## 🧠 My Focus Areas
-- heart transplant
+## 🧠 My Focus Area
+- Becoming a good wife
 
 
 ## 📊 GitHub Stats & Trophies
